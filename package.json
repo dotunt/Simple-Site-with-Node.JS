@@ -1,0 +1,19 @@
+{
+  "name": "simple-site-with-nodejs",
+  "version": "1.0.0",
+  "description": "simple node site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotunt/Simple-Site-with-NodeJS.git"
+  },
+  "author": "dotun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dotunt/Simple-Site-with-NodeJS/issues"
+  },
+  "homepage": "https://github.com/dotunt/Simple-Site-with-NodeJS#readme"
+}
